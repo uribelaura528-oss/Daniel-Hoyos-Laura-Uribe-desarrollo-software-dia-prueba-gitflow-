@@ -9,8 +9,8 @@ package com.mycompany.parcial;
  * @author Laura
  */
 public class Inventario {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
+    public void metodoA() {
+ System.out.println("ejecutando metodo A");
+ }
+  
 }
